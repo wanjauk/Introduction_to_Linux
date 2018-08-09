@@ -288,3 +288,24 @@
   288  history
   289  clear
   290  history > history.txt
+  291  ls
+  292  git status
+  293  git add history.txt 
+  294  git status
+  295  git commit -m "created a linux  history file"
+  296  git config --global user.email "wanjaukm@gmail.com"
+  297  git config --global user.name "Kennedy Mwangi"
+  298  git commit -m "created a linux  history file"
+  299  git push -u origin master
+  300  git remote set url https://github.com/wanjauk/Introduction_to_Linux.git
+  301  git remote set-url https://github.com/wanjauk/Introduction_to_Linux.git
+  302  git remote set-url origin https://github.com/wanjauk/Introduction_to_Linux.git
+  303  git commit -m "created a linux  history file"
+  304  git push -u origin master
+  305  clear
+  306  ls
+  307  cd ..
+  308  ls
+  309  cd Introduction-to-Linux/
+  310  ls
+  311  history > history.txt
